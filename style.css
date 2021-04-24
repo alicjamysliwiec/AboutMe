@@ -196,5 +196,23 @@ p {
         width: 100%;
     }
 
+    .con1{
+        padding: 50px;
+        border-radius: 10px;
+        box-shadow: var(--box-shadow);
+        display: block;
+        margin: 5px auto;
+        background-color: rgb(250, 232, 252);
+    }
+
+    .con2{
+        padding: 50px;
+        border-radius: 10px;
+        box-shadow: var(--box-shadow);
+        display: block;
+        margin: 5px auto;
+        background-color: rgb(230, 255, 255);
+    }
+
 
 }
